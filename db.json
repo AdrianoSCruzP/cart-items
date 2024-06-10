@@ -1,35 +1,13 @@
 {
-  "cartItems": [
-    {
-      "id": 1,
-      "name": "Gafas de Esqui de Alto Rendimiento",
-      "price": 70,
-      "lessor": "Juan Alberto",
-      "logo": "https://tse2.mm.bing.net/th?id=OIP.lV4xVjEEqLcWwzIridOHAAHaHa&pid=Api&P=0&h=180"
-    },
-    {
-      "id": 2,
-      "name": "Traje de la Pantera Rosa",
-      "price": 100,
-      "lessor": "Maria Ostrinez",
-      "logo": "https://disfracescamilita.com/wp-content/uploads/2022/10/pantera-rosa.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Conjunto vestimenta de marinera norteña",
-      "price": 100,
-      "lessor": "Rene Magrid",
-      "logo": "https://i.ytimg.com/vi/-QvXNjYeKpU/maxresdefault.jpg"
-    }
-  ],
-  "products": [
+  "shoppingCart": [
     {
       "id": "1",
       "image": "https://raw.githubusercontent.com/SI729-2401-WS51-Grupo-4/Event-Wear-front/feature/AdrianoSebastianCruzPalomino/src/assets/product-1.png",
       "title": "Traje de la Pantera Rosa",
       "description": "Confeccionado con telas de alta calidad y una atención meticulosa a los detalles, este traje garantiza un ajuste perfecto y una apariencia impecable.",
       "price": 100,
-      "rating": "4"
+      "rating": "4",
+      "quantity": 3
     },
     {
       "id": "2",
@@ -37,7 +15,8 @@
       "title": "Gafas de Esquí de Alto Rendimiento",
       "description": "Estas gafas de esquí de alto rendimiento están diseñadas para ofrecer una visión clara y sin distorsiones en las condiciones más extremas.",
       "price": 70,
-      "rating": "3,5"
+      "rating": "3,5",
+      "quantity": 2
     },
     {
       "id": "3",
@@ -45,7 +24,8 @@
       "title": "Conjunto vestimenta de marinera norteña",
       "description": "Este conjunto de vestimenta de marinera norteña incluye una falda, una blusa y un pañuelo. Está confeccionado con telas de alta calidad y una atención meticulosa a los detalles.",
       "price": 100,
-      "rating": "4,5"
+      "rating": "4,5",
+      "quantity": 2
     }
   ]
 }
